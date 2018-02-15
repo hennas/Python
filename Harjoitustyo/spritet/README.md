@@ -1,0 +1,1 @@
+Miinaharavan käyttämät grafiikat
