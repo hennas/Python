@@ -1,4 +1,4 @@
-"""A very simple worm game, controlled with arrow keys. Graphics made with PSE."""
+"""A very simple worm game, controlled with arrow keys."""
 
 import pyglet
 from pyglet.gl import *
